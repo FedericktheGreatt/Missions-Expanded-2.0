@@ -12,15 +12,15 @@ generic_1 = {
 		trigger = {
 			employed_advisor = {
 				category = ADM
-				# skill = 2
+				# skill = 3
 			}
 			employed_advisor = {
 				category = DIP
-				# skill = 2
+				# skill = 3
 			}
 			employed_advisor = {
 				category = MIL
-				# skill = 2
+				# skill = 3
 			}
 		}
 		effect = {
